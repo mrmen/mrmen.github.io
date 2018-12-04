@@ -1,8 +1,0 @@
-name: Belette Team
-description: Belette Team support page
-theme: jekyll-theme-tactile
-permalink: /:year/:month/:day/:title/
-paginate: 10
-pygments: true
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
