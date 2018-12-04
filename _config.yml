@@ -1,7 +1,6 @@
-name: Tho-Maths
-url: http://thomaths.org
-description: Mathématiques
-
+name: Belette Team
+description: Belette Team support page
+theme: jekyll-theme-tactile
 permalink: /:year/:month/:day/:title/
 paginate: 10
 pygments: true
