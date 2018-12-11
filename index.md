@@ -15,4 +15,7 @@ Current issues are available on github :
 - [MathsFrac](https://github.com/mrmen/MathsFrac/issues)
 - [CassI](https://github.com/mrmen/CassI/issues)
 
-For any question about usage or support you can reach me with the following form.
+[image](https://github.com/mrmen/Android-MathCartes/raw/master/app/src/main/res/drawable/fonctions.png)
+
+
+For any question about usage or support you can reach me with the following 
